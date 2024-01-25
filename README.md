@@ -1,3 +1,4 @@
+<img src="D:\Web Stock\Banner_github.png" alt="Alt text" title="Optional title">
 <h1 align="center">Hi 👋, I'm Nur Hadi</h1>
 <h3 align="center">A passionate fullstack developer from Indonesia (maybe)</h3>
 
