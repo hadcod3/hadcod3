@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Nur Hadi</h1>
 <h3 align="center">A passionate fullstack developer from Indonesia (maybe)</h3>
-<img widht="300" src="https://qph.cf2.quoracdn.net/main-qimg-c0c2264911d8cd4a688acd0542240f95">
+<img widht="300" align="right" src="https://qph.cf2.quoracdn.net/main-qimg-c0c2264911d8cd4a688acd0542240f95">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hadcod3&label=Profile%20views&color=05d697&style=flat" alt="hadcod3" /> </p>
 
 - 🔭 I’m currently working on **Had Verse**
