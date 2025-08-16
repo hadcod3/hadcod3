@@ -1,11 +1,7 @@
-Hi, I'm Nur Hadi, a Fullstack Developer from Indonesia with a passion for building modern web applications. Currently focused on expanding my expertise in React, Next JS, and MongoDB while developing Had Space.
+Hi, I'm Nur Hadi, a Fullstack Developer from Indonesia passionate about building modern web applications. My expertise spans React, Next.js, Node.js, and MongoDB, and I’m currently deepening my knowledge in advanced React patterns, Next.js composition API, and clean code architecture. I’m actively developing Had Space (a personal fullstack project) while exploring performance optimization and scalable solutions. My toolkit includes:
 
-### Skills & Technologies
-- Frontend: React, React Native, Next JS, Vue, HTML/CSS, Sass, Tailwind CSS, Next UI
+- Frontend: React, Next.js, Vue, Tailwind CSS, Next UI
 - Backend: Node.js, MongoDB, MySQL
 - Tools: Git, Postman, Thunder Client
 
-### Currently
-- Learning advanced React patterns and Next JS composition API
-- Building Had Space - a personal project exploring fullstack development
-- Interested in clean code architecture and performance optimization
+Let’s connect and collaborate!
